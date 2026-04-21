@@ -68,14 +68,19 @@ class LLMSelector:
             candidates=candidates_text,
         )
 
-        message = self._client.messages.create(
-            model=self._model,
-            max_tokens=512,
-            system=_SYSTEM,
-            messages=[{"role": "user", "content": prompt}],
-        )
-        raw = message.content[0].text.strip()
-        selections: list[dict] = json.loads(raw)
+        try:
+            message = self._client.messages.create(
+                model=self._model,
+                max_tokens=512,
+                system=_SYSTEM,
+                messages=[{"role": "user", "content": prompt}],
+            )
+            raw = message.content[0].text.strip()
+            selections: list[dict] = json.loads(raw)
+        except Exception as exc:
+            # Fallback: return top `count` by existing score order, no reasons
+            print(f"[selector] LLM call failed ({exc}), falling back to score-based selection.")
+            return [(r, s, "") for r, s in pairs[:count]]
 
         # Map full_name back to (repo, score) pairs
         lookup = {repo.full_name.lower(): (repo, score) for repo, score in pairs}
@@ -86,5 +91,14 @@ class LLMSelector:
             if key in lookup:
                 repo, score = lookup[key]
                 results.append((repo, score, reason))
+
+        # If LLM returned fewer than count valid results, pad with top scored
+        if len(results) < count:
+            used = {r.full_name.lower() for r, _, _ in results}
+            for repo, score in pairs:
+                if repo.full_name.lower() not in used:
+                    results.append((repo, score, ""))
+                if len(results) >= count:
+                    break
 
         return results
