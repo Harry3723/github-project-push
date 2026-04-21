@@ -1,4 +1,4 @@
-name: Weekly GitHub Project Push
+name: Weekly GitHub Project Push # ECE PhD productivity push
 
 on:
   schedule:
