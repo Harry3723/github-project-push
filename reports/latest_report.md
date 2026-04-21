@@ -1,4 +1,4 @@
-# GitHub 项目周推 | 2026-04-20 20:40 (CDT)
+# GitHub 项目周推 | 2026-04-21 10:08 (CDT)
 
 > 光子计算 AI 加速方向 ECE 博士生周度精选
 
@@ -9,7 +9,7 @@
 
 ### 1. [langgenius/dify](https://github.com/langgenius/dify)
 
-⭐ **138.5k** | **语言**: TypeScript | **最近更新**: 今天
+⭐ **138.6k** | **语言**: TypeScript | **最近更新**: 今天
 
 **简介**: Production-ready platform for agentic workflow development.
 
@@ -33,7 +33,7 @@
 
 ### 3. [khoj-ai/khoj](https://github.com/khoj-ai/khoj)
 
-⭐ **34.2k** | **语言**: Python | **最近更新**: 25 天前
+⭐ **34.2k** | **语言**: Python | **最近更新**: 26 天前
 
 **简介**: Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.
 
