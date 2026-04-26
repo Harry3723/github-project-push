@@ -1,4 +1,4 @@
-# GitHub 项目周推 | 2026-04-21 10:08 (CDT)
+# GitHub 项目周推 | 2026-04-25 23:20 (CDT)
 
 > 光子计算 AI 加速方向 ECE 博士生周度精选
 
@@ -7,36 +7,36 @@
 ---
 ## 本周推荐
 
-### 1. [langgenius/dify](https://github.com/langgenius/dify)
+### 1. [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect)
 
-⭐ **138.6k** | **语言**: TypeScript | **最近更新**: 今天
+⭐ **22.2k** | **语言**: Python | **最近更新**: 今天
 
-**简介**: Production-ready platform for agentic workflow development.
+**简介**: Prefect is a workflow orchestration framework for building resilient data pipelines in Python.
 
-**话题标签**: `agent`, `agentic-ai`, `agentic-framework`, `agentic-workflow`, `ai`
-
-**为什么推荐**: 适合 ECE 博士生日常研究使用
-
----
-
-### 2. [apache/airflow](https://github.com/apache/airflow)
-
-⭐ **45.1k** | **语言**: Python | **最近更新**: 今天
-
-**简介**: Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
-
-**话题标签**: `airflow`, `apache`, `apache-airflow`, `automation`, `dag`
+**话题标签**: `automation`, `data`, `data-engineering`, `data-ops`, `data-science`
 
 **为什么推荐**: 适合 ECE 博士生日常研究使用
 
 ---
 
-### 3. [khoj-ai/khoj](https://github.com/khoj-ai/khoj)
+### 2. [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern)
 
-⭐ **34.2k** | **语言**: Python | **最近更新**: 26 天前
+⭐ **21.4k** | **语言**: Python | **最近更新**: 今天
 
-**简介**: Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.
+**简介**: Automate browser based workflows with AI
 
-**话题标签**: `agent`, `ai`, `assistant`, `chat`, `chatgpt`
+**话题标签**: `ai`, `api`, `automation`, `browser`, `browser-automation`
+
+**为什么推荐**: 适合 ECE 博士生日常研究使用
+
+---
+
+### 3. [Avaiga/taipy](https://github.com/Avaiga/taipy)
+
+⭐ **19.2k** | **语言**: Python | **最近更新**: 昨天
+
+**简介**: Turns Data and AI algorithms into production-ready web applications in no time.
+
+**话题标签**: `automation`, `data-engineering`, `data-integration`, `data-ops`, `data-visualization`
 
 **为什么推荐**: 适合 ECE 博士生日常研究使用
