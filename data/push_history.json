@@ -5,6 +5,9 @@
     "avaiga/taipy",
     "khoj-ai/khoj",
     "langgenius/dify",
+    "masscodeio/masscode",
+    "microsoft/rd-agent",
+    "pipedreamhq/pipedream",
     "prefecthq/prefect",
     "skyvern-ai/skyvern"
   ],
@@ -25,6 +28,15 @@
         "PrefectHQ/prefect",
         "Skyvern-AI/skyvern",
         "Avaiga/taipy"
+      ]
+    },
+    {
+      "generated_at": "2026-05-02T23:38:12.846748-05:00",
+      "report_path": "/home/runner/work/github-project-push/github-project-push/reports/github_project_report_20260502_233812.md",
+      "repos": [
+        "microsoft/RD-Agent",
+        "PipedreamHQ/pipedream",
+        "massCodeIO/massCode"
       ]
     }
   ]
