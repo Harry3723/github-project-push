@@ -4,6 +4,8 @@
     "0chencc/ctfcracktools",
     "apache/airflow",
     "avaiga/taipy",
+    "blackholll/loonflow",
+    "heilcheng/awesome-agent-skills",
     "khoj-ai/khoj",
     "langgenius/dify",
     "masscodeio/masscode",
@@ -12,7 +14,8 @@
     "pipedreamhq/pipedream",
     "pipeshub-ai/pipeshub-ai",
     "prefecthq/prefect",
-    "skyvern-ai/skyvern"
+    "skyvern-ai/skyvern",
+    "stackstorm/st2"
   ],
   "runs": [
     {
@@ -49,6 +52,15 @@
         "mergisi/awesome-openclaw-agents",
         "pipeshub-ai/pipeshub-ai",
         "0Chencc/CTFCrackTools"
+      ]
+    },
+    {
+      "generated_at": "2026-05-16T23:51:03.891961-05:00",
+      "report_path": "/home/runner/work/github-project-push/github-project-push/reports/github_project_report_20260516_235103.md",
+      "repos": [
+        "blackholll/loonflow",
+        "StackStorm/st2",
+        "heilcheng/awesome-agent-skills"
       ]
     }
   ]
