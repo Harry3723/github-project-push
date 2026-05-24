@@ -5,6 +5,8 @@
     "apache/airflow",
     "avaiga/taipy",
     "blackholll/loonflow",
+    "colbymchenry/codegraph",
+    "darrenhinde/openagentscontrol",
     "heilcheng/awesome-agent-skills",
     "khoj-ai/khoj",
     "langgenius/dify",
@@ -15,7 +17,8 @@
     "pipeshub-ai/pipeshub-ai",
     "prefecthq/prefect",
     "skyvern-ai/skyvern",
-    "stackstorm/st2"
+    "stackstorm/st2",
+    "tinyhumansai/openhuman"
   ],
   "runs": [
     {
@@ -61,6 +64,15 @@
         "blackholll/loonflow",
         "StackStorm/st2",
         "heilcheng/awesome-agent-skills"
+      ]
+    },
+    {
+      "generated_at": "2026-05-23T23:59:02.522453-05:00",
+      "report_path": "/home/runner/work/github-project-push/github-project-push/reports/github_project_report_20260523_235902.md",
+      "repos": [
+        "darrenhinde/OpenAgentsControl",
+        "tinyhumansai/openhuman",
+        "colbymchenry/codegraph"
       ]
     }
   ]
