@@ -14,11 +14,14 @@
     "lum1104/understand-anything",
     "masscodeio/masscode",
     "mergisi/awesome-openclaw-agents",
+    "microsoft/markitdown",
     "microsoft/rd-agent",
+    "nousresearch/hermes-agent",
     "pipedreamhq/pipedream",
     "pipeshub-ai/pipeshub-ai",
     "prefecthq/prefect",
     "skyvern-ai/skyvern",
+    "sponsors/chopratejas",
     "sponsors/rohitg00",
     "stackstorm/st2",
     "tinyhumansai/openhuman"
@@ -85,6 +88,15 @@
         "Lum1104/Understand-Anything",
         "harry0703/MoneyPrinterTurbo",
         "sponsors/rohitg00"
+      ]
+    },
+    {
+      "generated_at": "2026-06-07T00:18:07.662547-05:00",
+      "report_path": "/home/runner/work/github-project-push/github-project-push/reports/github_project_report_20260607_001807.md",
+      "repos": [
+        "microsoft/markitdown",
+        "sponsors/chopratejas",
+        "NousResearch/hermes-agent"
       ]
     }
   ]
