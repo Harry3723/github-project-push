@@ -2,7 +2,9 @@
   "schema_version": 1,
   "sent_ids": [
     "0chencc/ctfcracktools",
+    "addyosmani/agent-skills",
     "apache/airflow",
+    "apple/container",
     "avaiga/taipy",
     "blackholll/loonflow",
     "colbymchenry/codegraph",
@@ -16,6 +18,7 @@
     "mergisi/awesome-openclaw-agents",
     "microsoft/markitdown",
     "microsoft/rd-agent",
+    "mvanhorn/last30days-skill",
     "nousresearch/hermes-agent",
     "pipedreamhq/pipedream",
     "pipeshub-ai/pipeshub-ai",
@@ -97,6 +100,15 @@
         "microsoft/markitdown",
         "sponsors/chopratejas",
         "NousResearch/hermes-agent"
+      ]
+    },
+    {
+      "generated_at": "2026-06-14T00:28:01.281557-05:00",
+      "report_path": "/home/runner/work/github-project-push/github-project-push/reports/github_project_report_20260614_002801.md",
+      "repos": [
+        "mvanhorn/last30days-skill",
+        "addyosmani/agent-skills",
+        "apple/container"
       ]
     }
   ]
