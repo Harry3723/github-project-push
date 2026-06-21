@@ -1,4 +1,4 @@
-# GitHub 项目周推 | 2026-06-14 00:28 (CDT)
+# GitHub 项目周推 | 2026-06-21 00:57 (CDT)
 
 > 光子计算 AI 加速方向 ECE 博士生周度精选
 
@@ -7,35 +7,35 @@
 ---
 ## 本周推荐
 
-### 1. [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)
+### 1. [netease-youdao/LobsterAI](https://github.com/netease-youdao/LobsterAI)
 
-⭐ **12.6k** | **语言**: Python | **最近更新**: 今天
+⭐ **5.3k** | **语言**: TypeScript | **最近更新**: 今天
 
-**简介**: AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
+**简介**: Open-source, desktop-grade AI agent that gets real work done — data analysis, slides, docs, video & web research. Built on OpenClaw; runs tools on your real desktop and takes commands from your phone via WeChat, Feishu, DingTalk & Telegram.
 
-**话题标签**: —
-
-**为什么推荐**: 适合 ECE 博士生日常研究使用
-
----
-
-### 2. [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)
-
-⭐ **9.3k** | **语言**: Shell | **最近更新**: 今天
-
-**简介**: Production-grade engineering skills for AI coding agents.
-
-**话题标签**: —
+**话题标签**: `agent`, `ai-agent`, `ai-assistant`, `automation`, `autonomous-agents`
 
 **为什么推荐**: 适合 ECE 博士生日常研究使用
 
 ---
 
-### 3. [apple/container](https://github.com/apple/container)
+### 2. [SamurAIGPT/llm-wiki-agent](https://github.com/SamurAIGPT/llm-wiki-agent)
 
-⭐ **9.2k** | **语言**: Swift | **最近更新**: 今天
+⭐ **3.0k** | **语言**: Python | **最近更新**: 7 天前
 
-**简介**: A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
+**简介**: A personal knowledge base that builds and maintains itself. Drop in sources — Claude (or Codex/Gemini) reads them, extracts knowledge, and maintains a persistent interlinked wiki. Works with Claude Code, Codex, OpenCode, Gemini CLI. No API key needed.
+
+**话题标签**: `ai-agent`, `ai-tools`, `automation`, `claude-code`, `codex`
+
+**为什么推荐**: 适合 ECE 博士生日常研究使用
+
+---
+
+### 3. [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)
+
+⭐ **8.5k** | **语言**: Python | **最近更新**: 今天
+
+**简介**: Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
 
 **话题标签**: —
 

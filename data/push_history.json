@@ -19,10 +19,13 @@
     "microsoft/markitdown",
     "microsoft/rd-agent",
     "mvanhorn/last30days-skill",
+    "netease-youdao/lobsterai",
     "nousresearch/hermes-agent",
+    "panniantong/agent-reach",
     "pipedreamhq/pipedream",
     "pipeshub-ai/pipeshub-ai",
     "prefecthq/prefect",
+    "samuraigpt/llm-wiki-agent",
     "skyvern-ai/skyvern",
     "sponsors/chopratejas",
     "sponsors/rohitg00",
@@ -109,6 +112,15 @@
         "mvanhorn/last30days-skill",
         "addyosmani/agent-skills",
         "apple/container"
+      ]
+    },
+    {
+      "generated_at": "2026-06-21T00:57:03.217893-05:00",
+      "report_path": "/home/runner/work/github-project-push/github-project-push/reports/github_project_report_20260621_005703.md",
+      "repos": [
+        "netease-youdao/LobsterAI",
+        "SamurAIGPT/llm-wiki-agent",
+        "Panniantong/Agent-Reach"
       ]
     }
   ]
