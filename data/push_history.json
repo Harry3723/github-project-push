@@ -9,6 +9,7 @@
     "blackholll/loonflow",
     "colbymchenry/codegraph",
     "darrenhinde/openagentscontrol",
+    "deusdata/codebase-memory-mcp",
     "harry0703/moneyprinterturbo",
     "heilcheng/awesome-agent-skills",
     "khoj-ai/khoj",
@@ -27,10 +28,12 @@
     "prefecthq/prefect",
     "samuraigpt/llm-wiki-agent",
     "skyvern-ai/skyvern",
+    "sponsors/calesthio",
     "sponsors/chopratejas",
     "sponsors/rohitg00",
     "stackstorm/st2",
-    "tinyhumansai/openhuman"
+    "tinyhumansai/openhuman",
+    "zhulinsen/daily_stock_analysis"
   ],
   "runs": [
     {
@@ -121,6 +124,15 @@
         "netease-youdao/LobsterAI",
         "SamurAIGPT/llm-wiki-agent",
         "Panniantong/Agent-Reach"
+      ]
+    },
+    {
+      "generated_at": "2026-06-28T00:14:04.286339-05:00",
+      "report_path": "/home/runner/work/github-project-push/github-project-push/reports/github_project_report_20260628_001404.md",
+      "repos": [
+        "sponsors/calesthio",
+        "DeusData/codebase-memory-mcp",
+        "ZhuLinsen/daily_stock_analysis"
       ]
     }
   ]
