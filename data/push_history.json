@@ -30,9 +30,12 @@
     "skyvern-ai/skyvern",
     "sponsors/calesthio",
     "sponsors/chopratejas",
+    "sponsors/msitarzewski",
     "sponsors/rohitg00",
     "stackstorm/st2",
     "tinyhumansai/openhuman",
+    "usestrix/strix",
+    "xbtlin/ai-berkshire",
     "zhulinsen/daily_stock_analysis"
   ],
   "runs": [
@@ -133,6 +136,15 @@
         "sponsors/calesthio",
         "DeusData/codebase-memory-mcp",
         "ZhuLinsen/daily_stock_analysis"
+      ]
+    },
+    {
+      "generated_at": "2026-07-04T23:52:37.241828-05:00",
+      "report_path": "/home/runner/work/github-project-push/github-project-push/reports/github_project_report_20260704_235237.md",
+      "repos": [
+        "sponsors/msitarzewski",
+        "usestrix/strix",
+        "xbtlin/ai-berkshire"
       ]
     }
   ]

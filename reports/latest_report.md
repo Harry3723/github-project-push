@@ -1,4 +1,4 @@
-# GitHub 项目周推 | 2026-06-28 00:14 (CDT)
+# GitHub 项目周推 | 2026-07-04 23:52 (CDT)
 
 > 光子计算 AI 加速方向 ECE 博士生周度精选
 
@@ -7,23 +7,11 @@
 ---
 ## 本周推荐
 
-### 1. [sponsors/calesthio](https://github.com/sponsors/calesthio)
+### 1. [sponsors/msitarzewski](https://github.com/sponsors/msitarzewski)
 
-⭐ **18.0k** | **语言**: Python | **最近更新**: 今天
+⭐ **11.0k** | **语言**: Shell | **最近更新**: 今天
 
-**简介**: World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.
-
-**话题标签**: —
-
-**为什么推荐**: 适合 ECE 博士生日常研究使用
-
----
-
-### 2. [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)
-
-⭐ **7.7k** | **语言**: C | **最近更新**: 今天
-
-**简介**: High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
+**简介**: A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
 
 **话题标签**: —
 
@@ -31,11 +19,23 @@
 
 ---
 
-### 3. [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)
+### 2. [usestrix/strix](https://github.com/usestrix/strix)
 
-⭐ **7.1k** | **语言**: Python | **最近更新**: 今天
+⭐ **9.4k** | **语言**: Python | **最近更新**: 今天
 
-**简介**: LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.
+**简介**: Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
+
+**话题标签**: —
+
+**为什么推荐**: 适合 ECE 博士生日常研究使用
+
+---
+
+### 3. [xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire)
+
+⭐ **6.0k** | **语言**: Python | **最近更新**: 今天
+
+**简介**: AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.
 
 **话题标签**: —
 
