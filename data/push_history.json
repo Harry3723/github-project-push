@@ -12,6 +12,7 @@
     "deusdata/codebase-memory-mcp",
     "harry0703/moneyprinterturbo",
     "heilcheng/awesome-agent-skills",
+    "iofficeai/officecli",
     "khoj-ai/khoj",
     "langgenius/dify",
     "lum1104/understand-anything",
@@ -28,10 +29,12 @@
     "prefecthq/prefect",
     "samuraigpt/llm-wiki-agent",
     "skyvern-ai/skyvern",
+    "sponsors/asgeirtj",
     "sponsors/calesthio",
     "sponsors/chopratejas",
     "sponsors/msitarzewski",
     "sponsors/rohitg00",
+    "sponsors/zackriya-solutions",
     "stackstorm/st2",
     "tinyhumansai/openhuman",
     "usestrix/strix",
@@ -145,6 +148,15 @@
         "sponsors/msitarzewski",
         "usestrix/strix",
         "xbtlin/ai-berkshire"
+      ]
+    },
+    {
+      "generated_at": "2026-07-11T23:22:11.558378-05:00",
+      "report_path": "/home/runner/work/github-project-push/github-project-push/reports/github_project_report_20260711_232211.md",
+      "repos": [
+        "sponsors/Zackriya-Solutions",
+        "sponsors/asgeirtj",
+        "iOfficeAI/OfficeCLI"
       ]
     }
   ]

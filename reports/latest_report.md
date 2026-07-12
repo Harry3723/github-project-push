@@ -1,4 +1,4 @@
-# GitHub 项目周推 | 2026-07-04 23:52 (CDT)
+# GitHub 项目周推 | 2026-07-11 23:22 (CDT)
 
 > 光子计算 AI 加速方向 ECE 博士生周度精选
 
@@ -7,23 +7,11 @@
 ---
 ## 本周推荐
 
-### 1. [sponsors/msitarzewski](https://github.com/sponsors/msitarzewski)
+### 1. [sponsors/Zackriya-Solutions](https://github.com/sponsors/Zackriya-Solutions)
 
-⭐ **11.0k** | **语言**: Shell | **最近更新**: 今天
+⭐ **8.6k** | **语言**: Rust | **最近更新**: 今天
 
-**简介**: A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
-
-**话题标签**: —
-
-**为什么推荐**: 适合 ECE 博士生日常研究使用
-
----
-
-### 2. [usestrix/strix](https://github.com/usestrix/strix)
-
-⭐ **9.4k** | **语言**: Python | **最近更新**: 今天
-
-**简介**: Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
+**简介**: Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai -https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows. Understand How to write meeting minutes
 
 **话题标签**: —
 
@@ -31,11 +19,23 @@
 
 ---
 
-### 3. [xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire)
+### 2. [sponsors/asgeirtj](https://github.com/sponsors/asgeirtj)
 
-⭐ **6.0k** | **语言**: Python | **最近更新**: 今天
+⭐ **7.7k** | **语言**: JavaScript | **最近更新**: 今天
 
-**简介**: AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.
+**简介**: Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT GPT-5.6, Codex GPT-5.6, GPT-5.5. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.
+
+**话题标签**: —
+
+**为什么推荐**: 适合 ECE 博士生日常研究使用
+
+---
+
+### 3. [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI)
+
+⭐ **6.5k** | **语言**: C# | **最近更新**: 今天
+
+**简介**: OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.
 
 **话题标签**: —
 
