@@ -23,6 +23,7 @@
     "mvanhorn/last30days-skill",
     "netease-youdao/lobsterai",
     "nousresearch/hermes-agent",
+    "nutlope/hallmark",
     "panniantong/agent-reach",
     "pipedreamhq/pipedream",
     "pipeshub-ai/pipeshub-ai",
@@ -32,7 +33,9 @@
     "sponsors/asgeirtj",
     "sponsors/calesthio",
     "sponsors/chopratejas",
+    "sponsors/mattpocock",
     "sponsors/msitarzewski",
+    "sponsors/opencut-app",
     "sponsors/rohitg00",
     "sponsors/zackriya-solutions",
     "stackstorm/st2",
@@ -157,6 +160,15 @@
         "sponsors/Zackriya-Solutions",
         "sponsors/asgeirtj",
         "iOfficeAI/OfficeCLI"
+      ]
+    },
+    {
+      "generated_at": "2026-07-18T23:18:39.240136-05:00",
+      "report_path": "/home/runner/work/github-project-push/github-project-push/reports/github_project_report_20260718_231839.md",
+      "repos": [
+        "sponsors/OpenCut-app",
+        "sponsors/mattpocock",
+        "Nutlope/hallmark"
       ]
     }
   ]
