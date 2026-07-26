@@ -7,6 +7,7 @@
     "apple/container",
     "avaiga/taipy",
     "blackholll/loonflow",
+    "bojieli/ai-agent-book",
     "colbymchenry/codegraph",
     "darrenhinde/openagentscontrol",
     "deusdata/codebase-memory-mcp",
@@ -14,6 +15,7 @@
     "heilcheng/awesome-agent-skills",
     "iofficeai/officecli",
     "khoj-ai/khoj",
+    "koala73/worldmonitor",
     "langgenius/dify",
     "lum1104/understand-anything",
     "masscodeio/masscode",
@@ -33,6 +35,7 @@
     "sponsors/asgeirtj",
     "sponsors/calesthio",
     "sponsors/chopratejas",
+    "sponsors/diegosouzapw",
     "sponsors/mattpocock",
     "sponsors/msitarzewski",
     "sponsors/opencut-app",
@@ -169,6 +172,15 @@
         "sponsors/OpenCut-app",
         "sponsors/mattpocock",
         "Nutlope/hallmark"
+      ]
+    },
+    {
+      "generated_at": "2026-07-25T23:22:35.291722-05:00",
+      "report_path": "/home/runner/work/github-project-push/github-project-push/reports/github_project_report_20260725_232235.md",
+      "repos": [
+        "bojieli/ai-agent-book",
+        "koala73/worldmonitor",
+        "sponsors/diegosouzapw"
       ]
     }
   ]
