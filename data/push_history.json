@@ -7,15 +7,18 @@
     "apple/container",
     "avaiga/taipy",
     "blackholll/loonflow",
+    "block/buzz",
     "bojieli/ai-agent-book",
     "colbymchenry/codegraph",
     "darrenhinde/openagentscontrol",
     "deusdata/codebase-memory-mcp",
     "harry0703/moneyprinterturbo",
     "heilcheng/awesome-agent-skills",
+    "hkuds/nanobot",
     "iofficeai/officecli",
     "khoj-ai/khoj",
     "koala73/worldmonitor",
+    "kunagent/kun",
     "langgenius/dify",
     "lum1104/understand-anything",
     "masscodeio/masscode",
@@ -181,6 +184,15 @@
         "bojieli/ai-agent-book",
         "koala73/worldmonitor",
         "sponsors/diegosouzapw"
+      ]
+    },
+    {
+      "generated_at": "2026-08-01T23:22:04.644017-05:00",
+      "report_path": "/home/runner/work/github-project-push/github-project-push/reports/github_project_report_20260801_232204.md",
+      "repos": [
+        "HKUDS/nanobot",
+        "KunAgent/Kun",
+        "block/buzz"
       ]
     }
   ]
