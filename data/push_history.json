@@ -23,6 +23,7 @@
     "lum1104/understand-anything",
     "masscodeio/masscode",
     "mergisi/awesome-openclaw-agents",
+    "microsoft/ai-for-beginners",
     "microsoft/markitdown",
     "microsoft/rd-agent",
     "mvanhorn/last30days-skill",
@@ -45,9 +46,11 @@
     "sponsors/rohitg00",
     "sponsors/zackriya-solutions",
     "stackstorm/st2",
+    "tencentcloud/tencentdb-agent-memory",
     "tinyhumansai/openhuman",
     "usestrix/strix",
     "xbtlin/ai-berkshire",
+    "zhaoxuya520/reverse-skill",
     "zhulinsen/daily_stock_analysis"
   ],
   "runs": [
@@ -193,6 +196,15 @@
         "HKUDS/nanobot",
         "KunAgent/Kun",
         "block/buzz"
+      ]
+    },
+    {
+      "generated_at": "2026-08-08T21:59:21.632768-05:00",
+      "report_path": "/home/runner/work/github-project-push/github-project-push/reports/github_project_report_20260808_215921.md",
+      "repos": [
+        "zhaoxuya520/reverse-skill",
+        "TencentCloud/TencentDB-Agent-Memory",
+        "microsoft/AI-For-Beginners"
       ]
     }
   ]
