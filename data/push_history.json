@@ -9,6 +9,7 @@
     "blackholll/loonflow",
     "block/buzz",
     "bojieli/ai-agent-book",
+    "cathrynlavery/diagram-design",
     "colbymchenry/codegraph",
     "darrenhinde/openagentscontrol",
     "deusdata/codebase-memory-mcp",
@@ -34,6 +35,7 @@
     "pipedreamhq/pipedream",
     "pipeshub-ai/pipeshub-ai",
     "prefecthq/prefect",
+    "primeintellect-ai/prime-agent",
     "samuraigpt/llm-wiki-agent",
     "skyvern-ai/skyvern",
     "sponsors/asgeirtj",
@@ -44,6 +46,7 @@
     "sponsors/msitarzewski",
     "sponsors/opencut-app",
     "sponsors/rohitg00",
+    "sponsors/semantica-agi",
     "sponsors/zackriya-solutions",
     "stackstorm/st2",
     "tencentcloud/tencentdb-agent-memory",
@@ -205,6 +208,15 @@
         "zhaoxuya520/reverse-skill",
         "TencentCloud/TencentDB-Agent-Memory",
         "microsoft/AI-For-Beginners"
+      ]
+    },
+    {
+      "generated_at": "2026-08-15T21:18:59.658221-05:00",
+      "report_path": "/home/runner/work/github-project-push/github-project-push/reports/github_project_report_20260815_211859.md",
+      "repos": [
+        "cathrynlavery/diagram-design",
+        "PrimeIntellect-ai/prime-agent",
+        "sponsors/semantica-agi"
       ]
     }
   ]
