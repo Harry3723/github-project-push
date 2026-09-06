@@ -1,4 +1,4 @@
-# GitHub 项目周推 | 2026-08-22 21:21 (CDT)
+# GitHub 项目周推 | 2026-09-06 00:26 (CDT)
 
 > 光子计算 AI 加速方向 ECE 博士生周度精选
 
@@ -7,23 +7,11 @@
 ---
 ## 本周推荐
 
-### 1. [public-apis/public-apis](https://github.com/public-apis/public-apis)
+### 1. [tt-a1i/archify](https://github.com/tt-a1i/archify)
 
-⭐ **9.4k** | **语言**: Python | **最近更新**: 今天
+⭐ **19.5k** | **语言**: JavaScript | **最近更新**: 今天
 
-**简介**: A collective list of free APIs
-
-**话题标签**: —
-
-**为什么推荐**: 适合 ECE 博士生日常研究使用
-
----
-
-### 2. [sponsors/AprilNEA](https://github.com/sponsors/AprilNEA)
-
-⭐ **5.0k** | **语言**: Rust | **最近更新**: 今天
-
-**简介**: ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.
+**简介**: Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.
 
 **话题标签**: —
 
@@ -31,11 +19,23 @@
 
 ---
 
-### 3. [volcengine/OpenViking](https://github.com/volcengine/OpenViking)
+### 2. [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)
 
-⭐ **3.4k** | **语言**: Python | **最近更新**: 今天
+⭐ **10.1k** | **语言**: TypeScript | **最近更新**: 今天
 
-**简介**: Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.
+**简介**: Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click
+
+**话题标签**: —
+
+**为什么推荐**: 适合 ECE 博士生日常研究使用
+
+---
+
+### 3. [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio)
+
+⭐ **6.8k** | **语言**: Python | **最近更新**: 今天
+
+**简介**: VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
 
 **话题标签**: —
 

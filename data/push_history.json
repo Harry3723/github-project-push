@@ -12,6 +12,7 @@
     "cathrynlavery/diagram-design",
     "colbymchenry/codegraph",
     "darrenhinde/openagentscontrol",
+    "debpalash/voicestudio",
     "deusdata/codebase-memory-mcp",
     "harry0703/moneyprinterturbo",
     "heilcheng/awesome-agent-skills",
@@ -52,7 +53,9 @@
     "sponsors/zackriya-solutions",
     "stackstorm/st2",
     "tencentcloud/tencentdb-agent-memory",
+    "thu-maic/openmaic",
     "tinyhumansai/openhuman",
+    "tt-a1i/archify",
     "usestrix/strix",
     "volcengine/openviking",
     "xbtlin/ai-berkshire",
@@ -229,6 +232,15 @@
         "public-apis/public-apis",
         "sponsors/AprilNEA",
         "volcengine/OpenViking"
+      ]
+    },
+    {
+      "generated_at": "2026-09-06T00:26:25.435608-05:00",
+      "report_path": "/home/runner/work/github-project-push/github-project-push/reports/github_project_report_20260906_002625.md",
+      "repos": [
+        "tt-a1i/archify",
+        "THU-MAIC/OpenMAIC",
+        "debpalash/VoiceStudio"
       ]
     }
   ]
