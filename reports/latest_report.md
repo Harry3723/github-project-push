@@ -1,4 +1,4 @@
-# GitHub 项目周推 | 2026-09-06 00:26 (CDT)
+# GitHub 项目周推 | 2026-09-13 00:35 (CDT)
 
 > 光子计算 AI 加速方向 ECE 博士生周度精选
 
@@ -7,23 +7,11 @@
 ---
 ## 本周推荐
 
-### 1. [tt-a1i/archify](https://github.com/tt-a1i/archify)
+### 1. [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)
 
-⭐ **19.5k** | **语言**: JavaScript | **最近更新**: 今天
+⭐ **15.9k** | **语言**: Python | **最近更新**: 今天
 
-**简介**: Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.
-
-**话题标签**: —
-
-**为什么推荐**: 适合 ECE 博士生日常研究使用
-
----
-
-### 2. [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)
-
-⭐ **10.1k** | **语言**: TypeScript | **最近更新**: 今天
-
-**简介**: Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click
+**简介**: A skill to stop your coding agent from burying the answer. ADHD-friendly output.
 
 **话题标签**: —
 
@@ -31,11 +19,23 @@
 
 ---
 
-### 3. [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio)
+### 2. [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view)
 
-⭐ **6.8k** | **语言**: Python | **最近更新**: 今天
+⭐ **10.5k** | **语言**: JavaScript | **最近更新**: 今天
 
-**简介**: VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
+**简介**: A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
+
+**话题标签**: —
+
+**为什么推荐**: 适合 ECE 博士生日常研究使用
+
+---
+
+### 3. [sponsors/DietrichGebert](https://github.com/sponsors/DietrichGebert)
+
+⭐ **9.3k** | **语言**: JavaScript | **最近更新**: 今天
+
+**简介**: Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 
 **话题标签**: —
 

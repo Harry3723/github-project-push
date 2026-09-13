@@ -6,6 +6,8 @@
     "apache/airflow",
     "apple/container",
     "avaiga/taipy",
+    "ayghri/i-have-adhd",
+    "bilawalsidhu/gods-eye-view",
     "blackholll/loonflow",
     "block/buzz",
     "bojieli/ai-agent-book",
@@ -45,6 +47,7 @@
     "sponsors/calesthio",
     "sponsors/chopratejas",
     "sponsors/diegosouzapw",
+    "sponsors/dietrichgebert",
     "sponsors/mattpocock",
     "sponsors/msitarzewski",
     "sponsors/opencut-app",
@@ -241,6 +244,15 @@
         "tt-a1i/archify",
         "THU-MAIC/OpenMAIC",
         "debpalash/VoiceStudio"
+      ]
+    },
+    {
+      "generated_at": "2026-09-13T00:35:37.985040-05:00",
+      "report_path": "/home/runner/work/github-project-push/github-project-push/reports/github_project_report_20260913_003537.md",
+      "repos": [
+        "ayghri/i-have-adhd",
+        "bilawalsidhu/gods-eye-view",
+        "sponsors/DietrichGebert"
       ]
     }
   ]
