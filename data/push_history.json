@@ -3,6 +3,7 @@
   "sent_ids": [
     "0chencc/ctfcracktools",
     "addyosmani/agent-skills",
+    "alibaba/open-code-review",
     "apache/airflow",
     "apple/container",
     "avaiga/taipy",
@@ -40,8 +41,10 @@
     "prefecthq/prefect",
     "primeintellect-ai/prime-agent",
     "public-apis/public-apis",
+    "pydoit/doit",
     "samuraigpt/llm-wiki-agent",
     "skyvern-ai/skyvern",
+    "sponsors/affaan-m",
     "sponsors/aprilnea",
     "sponsors/asgeirtj",
     "sponsors/calesthio",
@@ -253,6 +256,15 @@
         "ayghri/i-have-adhd",
         "bilawalsidhu/gods-eye-view",
         "sponsors/DietrichGebert"
+      ]
+    },
+    {
+      "generated_at": "2026-09-20T00:38:14.469990-05:00",
+      "report_path": "/home/runner/work/github-project-push/github-project-push/reports/github_project_report_20260920_003814.md",
+      "repos": [
+        "pydoit/doit",
+        "alibaba/open-code-review",
+        "sponsors/affaan-m"
       ]
     }
   ]
