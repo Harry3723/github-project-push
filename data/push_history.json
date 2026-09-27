@@ -13,6 +13,7 @@
     "block/buzz",
     "bojieli/ai-agent-book",
     "cathrynlavery/diagram-design",
+    "cloudflare/security-audit-skill",
     "colbymchenry/codegraph",
     "darrenhinde/openagentscontrol",
     "debpalash/voicestudio",
@@ -57,12 +58,14 @@
     "sponsors/rohitg00",
     "sponsors/semantica-agi",
     "sponsors/zackriya-solutions",
+    "stablyai/orca",
     "stackstorm/st2",
     "tencentcloud/tencentdb-agent-memory",
     "thu-maic/openmaic",
     "tinyhumansai/openhuman",
     "tt-a1i/archify",
     "usestrix/strix",
+    "vectorize-io/hindsight",
     "volcengine/openviking",
     "xbtlin/ai-berkshire",
     "zhaoxuya520/reverse-skill",
@@ -265,6 +268,15 @@
         "pydoit/doit",
         "alibaba/open-code-review",
         "sponsors/affaan-m"
+      ]
+    },
+    {
+      "generated_at": "2026-09-27T01:05:41.113112-05:00",
+      "report_path": "/home/runner/work/github-project-push/github-project-push/reports/github_project_report_20260927_010541.md",
+      "repos": [
+        "vectorize-io/hindsight",
+        "stablyai/orca",
+        "cloudflare/security-audit-skill"
       ]
     }
   ]
