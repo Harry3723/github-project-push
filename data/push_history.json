@@ -20,6 +20,7 @@
     "deusdata/codebase-memory-mcp",
     "harry0703/moneyprinterturbo",
     "heilcheng/awesome-agent-skills",
+    "heygen-com/hyperframes",
     "hkuds/nanobot",
     "iofficeai/officecli",
     "khoj-ai/khoj",
@@ -37,6 +38,8 @@
     "nousresearch/hermes-agent",
     "nutlope/hallmark",
     "panniantong/agent-reach",
+    "paperclipai/paperclip",
+    "pbakaus/impeccable",
     "pipedreamhq/pipedream",
     "pipeshub-ai/pipeshub-ai",
     "prefecthq/prefect",
@@ -277,6 +280,15 @@
         "vectorize-io/hindsight",
         "stablyai/orca",
         "cloudflare/security-audit-skill"
+      ]
+    },
+    {
+      "generated_at": "2026-10-04T01:34:50.336920-05:00",
+      "report_path": "/home/runner/work/github-project-push/github-project-push/reports/github_project_report_20261004_013450.md",
+      "repos": [
+        "paperclipai/paperclip",
+        "pbakaus/impeccable",
+        "heygen-com/hyperframes"
       ]
     }
   ]
