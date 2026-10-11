@@ -12,6 +12,7 @@
     "blackholll/loonflow",
     "block/buzz",
     "bojieli/ai-agent-book",
+    "boykopovar/anyps5",
     "cathrynlavery/diagram-design",
     "cloudflare/security-audit-skill",
     "colbymchenry/codegraph",
@@ -55,6 +56,7 @@
     "sponsors/chopratejas",
     "sponsors/diegosouzapw",
     "sponsors/dietrichgebert",
+    "sponsors/duartesantos8",
     "sponsors/mattpocock",
     "sponsors/msitarzewski",
     "sponsors/opencut-app",
@@ -64,6 +66,7 @@
     "stablyai/orca",
     "stackstorm/st2",
     "tencentcloud/tencentdb-agent-memory",
+    "tester-army/e2e",
     "thu-maic/openmaic",
     "tinyhumansai/openhuman",
     "tt-a1i/archify",
@@ -289,6 +292,15 @@
         "paperclipai/paperclip",
         "pbakaus/impeccable",
         "heygen-com/hyperframes"
+      ]
+    },
+    {
+      "generated_at": "2026-10-11T01:44:48.088657-05:00",
+      "report_path": "/home/runner/work/github-project-push/github-project-push/reports/github_project_report_20261011_014448.md",
+      "repos": [
+        "boykopovar/AnyPS5",
+        "sponsors/DuarteSantos8",
+        "tester-army/e2e"
       ]
     }
   ]
