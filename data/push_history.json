@@ -34,6 +34,7 @@
     "microsoft/ai-for-beginners",
     "microsoft/markitdown",
     "microsoft/rd-agent",
+    "morluto/rea",
     "mvanhorn/last30days-skill",
     "netease-youdao/lobsterai",
     "nousresearch/hermes-agent",
@@ -53,6 +54,7 @@
     "sponsors/aprilnea",
     "sponsors/asgeirtj",
     "sponsors/calesthio",
+    "sponsors/cathrynlavery",
     "sponsors/chopratejas",
     "sponsors/diegosouzapw",
     "sponsors/dietrichgebert",
@@ -65,6 +67,7 @@
     "sponsors/zackriya-solutions",
     "stablyai/orca",
     "stackstorm/st2",
+    "storytold/artcraft",
     "tencentcloud/tencentdb-agent-memory",
     "tester-army/e2e",
     "thu-maic/openmaic",
@@ -301,6 +304,15 @@
         "boykopovar/AnyPS5",
         "sponsors/DuarteSantos8",
         "tester-army/e2e"
+      ]
+    },
+    {
+      "generated_at": "2026-10-18T00:20:05.111997-05:00",
+      "report_path": "/home/runner/work/github-project-push/github-project-push/reports/github_project_report_20261018_002005.md",
+      "repos": [
+        "morluto/rea",
+        "storytold/artcraft",
+        "sponsors/cathrynlavery"
       ]
     }
   ]

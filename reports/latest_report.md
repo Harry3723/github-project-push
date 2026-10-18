@@ -1,4 +1,4 @@
-# GitHub 项目周推 | 2026-10-11 01:44 (CDT)
+# GitHub 项目周推 | 2026-10-18 00:20 (CDT)
 
 > 光子计算 AI 加速方向 ECE 博士生周度精选
 
@@ -7,23 +7,11 @@
 ---
 ## 本周推荐
 
-### 1. [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5)
+### 1. [morluto/rea](https://github.com/morluto/rea)
 
-⭐ **21.4k** | **语言**: C++ | **最近更新**: 今天
+⭐ **239.9k** | **语言**: TypeScript | **最近更新**: 今天
 
-**简介**: Tool for automatic PS5 executables porting to Linux and Windows
-
-**话题标签**: —
-
-**为什么推荐**: 适合 ECE 博士生日常研究使用
-
----
-
-### 2. [sponsors/DuarteSantos8](https://github.com/sponsors/DuarteSantos8)
-
-⭐ **7.4k** | **语言**: JavaScript | **最近更新**: 今天
-
-**简介**: Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.
+**简介**: Reverse engineer anything with agents, from app behavior down to native binaries.
 
 **话题标签**: —
 
@@ -31,11 +19,23 @@
 
 ---
 
-### 3. [tester-army/e2e](https://github.com/tester-army/e2e)
+### 2. [storytold/artcraft](https://github.com/storytold/artcraft)
 
-⭐ **6.6k** | **语言**: TypeScript | **最近更新**: 今天
+⭐ **18.5k** | **语言**: Rust | **最近更新**: 今天
 
-**简介**: Next generation e2e testing framework for web and mobile apps.
+**简介**: ArtCraft is an intentional crafting engine for artists, designers, and filmmakers
+
+**话题标签**: —
+
+**为什么推荐**: 适合 ECE 博士生日常研究使用
+
+---
+
+### 3. [sponsors/cathrynlavery](https://github.com/sponsors/cathrynlavery)
+
+⭐ **8.4k** | **语言**: HTML | **最近更新**: 今天
+
+**简介**: Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
 
 **话题标签**: —
 
