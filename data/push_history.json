@@ -16,9 +16,11 @@
     "cathrynlavery/diagram-design",
     "cloudflare/security-audit-skill",
     "colbymchenry/codegraph",
+    "comfy-org/comfyui",
     "darrenhinde/openagentscontrol",
     "debpalash/voicestudio",
     "deusdata/codebase-memory-mcp",
+    "graphify-labs/graphify",
     "harry0703/moneyprinterturbo",
     "heilcheng/awesome-agent-skills",
     "heygen-com/hyperframes",
@@ -51,6 +53,7 @@
     "samuraigpt/llm-wiki-agent",
     "skyvern-ai/skyvern",
     "sponsors/affaan-m",
+    "sponsors/anomalyco",
     "sponsors/aprilnea",
     "sponsors/asgeirtj",
     "sponsors/calesthio",
@@ -313,6 +316,15 @@
         "morluto/rea",
         "storytold/artcraft",
         "sponsors/cathrynlavery"
+      ]
+    },
+    {
+      "generated_at": "2026-10-25T00:35:14.288643-05:00",
+      "report_path": "/home/runner/work/github-project-push/github-project-push/reports/github_project_report_20261025_003514.md",
+      "repos": [
+        "Graphify-Labs/graphify",
+        "sponsors/anomalyco",
+        "Comfy-Org/ComfyUI"
       ]
     }
   ]

@@ -1,4 +1,4 @@
-# GitHub 项目周推 | 2026-10-18 00:20 (CDT)
+# GitHub 项目周推 | 2026-10-25 00:35 (CDT)
 
 > 光子计算 AI 加速方向 ECE 博士生周度精选
 
@@ -7,23 +7,11 @@
 ---
 ## 本周推荐
 
-### 1. [morluto/rea](https://github.com/morluto/rea)
+### 1. [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify)
 
-⭐ **239.9k** | **语言**: TypeScript | **最近更新**: 今天
+⭐ **6.9k** | **语言**: Python | **最近更新**: 今天
 
-**简介**: Reverse engineer anything with agents, from app behavior down to native binaries.
-
-**话题标签**: —
-
-**为什么推荐**: 适合 ECE 博士生日常研究使用
-
----
-
-### 2. [storytold/artcraft](https://github.com/storytold/artcraft)
-
-⭐ **18.5k** | **语言**: Rust | **最近更新**: 今天
-
-**简介**: ArtCraft is an intentional crafting engine for artists, designers, and filmmakers
+**简介**: Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.
 
 **话题标签**: —
 
@@ -31,11 +19,23 @@
 
 ---
 
-### 3. [sponsors/cathrynlavery](https://github.com/sponsors/cathrynlavery)
+### 2. [sponsors/anomalyco](https://github.com/sponsors/anomalyco)
 
-⭐ **8.4k** | **语言**: HTML | **最近更新**: 今天
+⭐ **6.9k** | **语言**: TypeScript | **最近更新**: 今天
 
-**简介**: Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
+**简介**: The open source coding agent.
+
+**话题标签**: —
+
+**为什么推荐**: 适合 ECE 博士生日常研究使用
+
+---
+
+### 3. [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI)
+
+⭐ **4.6k** | **语言**: Python | **最近更新**: 今天
+
+**简介**: The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.
 
 **话题标签**: —
 
