@@ -1,4 +1,4 @@
-# GitHub 项目周推 | 2026-10-25 00:35 (CDT)
+# GitHub 项目周推 | 2026-11-01 01:03 (CST)
 
 > 光子计算 AI 加速方向 ECE 博士生周度精选
 
@@ -7,23 +7,11 @@
 ---
 ## 本周推荐
 
-### 1. [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify)
+### 1. [YuJunZhiXue/dsh-purge](https://github.com/YuJunZhiXue/dsh-purge)
 
-⭐ **6.9k** | **语言**: Python | **最近更新**: 今天
+⭐ **6.6k** | **语言**: JavaScript | **最近更新**: 今天
 
-**简介**: Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.
-
-**话题标签**: —
-
-**为什么推荐**: 适合 ECE 博士生日常研究使用
-
----
-
-### 2. [sponsors/anomalyco](https://github.com/sponsors/anomalyco)
-
-⭐ **6.9k** | **语言**: TypeScript | **最近更新**: 今天
-
-**简介**: The open source coding agent.
+**简介**: DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every model — swap prompts per model. 求 Star 收藏 ⭐ 如要二开，请查看署名要求部分
 
 **话题标签**: —
 
@@ -31,11 +19,23 @@
 
 ---
 
-### 3. [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI)
+### 2. [sponsors/obra](https://github.com/sponsors/obra)
 
-⭐ **4.6k** | **语言**: Python | **最近更新**: 今天
+⭐ **5.6k** | **语言**: Shell | **最近更新**: 今天
 
-**简介**: The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.
+**简介**: An agentic skills framework & software development methodology that works.
+
+**话题标签**: —
+
+**为什么推荐**: 适合 ECE 博士生日常研究使用
+
+---
+
+### 3. [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)
+
+⭐ **5.5k** | **语言**: Python | **最近更新**: 今天
+
+**简介**: TradingAgents: Multi-Agents LLM Financial Trading Framework
 
 **话题标签**: —
 

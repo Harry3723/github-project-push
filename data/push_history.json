@@ -64,6 +64,7 @@
     "sponsors/duartesantos8",
     "sponsors/mattpocock",
     "sponsors/msitarzewski",
+    "sponsors/obra",
     "sponsors/opencut-app",
     "sponsors/rohitg00",
     "sponsors/semantica-agi",
@@ -71,6 +72,7 @@
     "stablyai/orca",
     "stackstorm/st2",
     "storytold/artcraft",
+    "tauricresearch/tradingagents",
     "tencentcloud/tencentdb-agent-memory",
     "tester-army/e2e",
     "thu-maic/openmaic",
@@ -80,6 +82,7 @@
     "vectorize-io/hindsight",
     "volcengine/openviking",
     "xbtlin/ai-berkshire",
+    "yujunzhixue/dsh-purge",
     "zhaoxuya520/reverse-skill",
     "zhulinsen/daily_stock_analysis"
   ],
@@ -325,6 +328,15 @@
         "Graphify-Labs/graphify",
         "sponsors/anomalyco",
         "Comfy-Org/ComfyUI"
+      ]
+    },
+    {
+      "generated_at": "2026-11-01T01:03:36.584889-06:00",
+      "report_path": "/home/runner/work/github-project-push/github-project-push/reports/github_project_report_20261101_010336.md",
+      "repos": [
+        "YuJunZhiXue/dsh-purge",
+        "sponsors/obra",
+        "TauricResearch/TradingAgents"
       ]
     }
   ]
