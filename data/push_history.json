@@ -59,15 +59,18 @@
     "sponsors/calesthio",
     "sponsors/cathrynlavery",
     "sponsors/chopratejas",
+    "sponsors/d4vinci",
     "sponsors/diegosouzapw",
     "sponsors/dietrichgebert",
     "sponsors/duartesantos8",
     "sponsors/mattpocock",
+    "sponsors/milind-soni",
     "sponsors/msitarzewski",
     "sponsors/obra",
     "sponsors/opencut-app",
     "sponsors/rohitg00",
     "sponsors/semantica-agi",
+    "sponsors/thedotmack",
     "sponsors/zackriya-solutions",
     "stablyai/orca",
     "stackstorm/st2",
@@ -337,6 +340,15 @@
         "YuJunZhiXue/dsh-purge",
         "sponsors/obra",
         "TauricResearch/TradingAgents"
+      ]
+    },
+    {
+      "generated_at": "2026-11-08T00:53:01.460084-06:00",
+      "report_path": "/home/runner/work/github-project-push/github-project-push/reports/github_project_report_20261108_005301.md",
+      "repos": [
+        "sponsors/D4Vinci",
+        "sponsors/thedotmack",
+        "sponsors/milind-soni"
       ]
     }
   ]
